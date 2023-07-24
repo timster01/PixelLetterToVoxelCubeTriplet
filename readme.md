@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/670172305.svg)](https://zenodo.org/badge/latestdoi/670172305)
+
 # Usage
 1. Run the script
 2. Type y for yes if you want to test 3 specific letters or n for no if not
