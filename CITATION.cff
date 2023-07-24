@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Pixel Letter To Voxel Cube Trip-let
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tim
+    family-names: Roggen
+    email: timroggen@hotmail.nl
+    name-particle: Tim
+    orcid: 'https://orcid.org/0009-0009-7823-2454'
+repository-code: 'https://github.com/timster01/PixelLetterToVoxelCubeTriplet'
+repository-artifact: >-
+  https://github.com/timster01/PixelLetterToVoxelCubeTriplet/releases
+abstract: >-
+  A Python script to generate cube based trip-lets for
+  letters.
+
+  See the paper "Trip-lets: Constructability of trip-lets in
+  theory and in practice"
+license: MIT
+version: v1.0.0
+date-released: '2023-07-24'
